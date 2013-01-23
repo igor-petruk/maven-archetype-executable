@@ -31,7 +31,7 @@ under the License.
    <groupId>com.github.igor-petruk.archetypes</groupId>
    <artifactId>maven-archetype-executable</artifactId>
 	<packaging>jar</packaging>
-    <version>0.2</version>
+    <version>0.3-SNAPSHOT</version>
     <name>Executable Quickstart Archetype</name>
     <description>
 		Executable Quickstart Archetype that is ready to run with 'java -jar'
